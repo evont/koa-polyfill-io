@@ -1,0 +1,13 @@
+{
+  "name": "koa-polyfill-service",
+  "version": "1.0.0",
+  "description": "koa middleware for polyfill service",
+  "main": "index.js",
+  "author": "Evont Ng <evontgoh@foxmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "denodeify": "^1.2.1",
+    "iltorb": "^2.4.3",
+    "polyfill-library": "^3.34.0"
+  }
+}
