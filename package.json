@@ -1,5 +1,5 @@
 {
-  "name": "koa-polyfill-service",
+  "name": "koa-polyfill-io",
   "version": "1.0.0",
   "description": "koa middleware for polyfill service",
   "main": "index.js",
