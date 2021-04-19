@@ -5,6 +5,16 @@
   "main": "index.js",
   "author": "Evont Ng <evontgoh@foxmail.com>",
   "license": "ISC",
+  "homepage": "https://github.com/evont/koa-polyfill-io",
+  "keywords": [
+    "polyfill",
+    "koa",
+    "middleware"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evont/koa-polyfill-io.git"
+  },
   "dependencies": {
     "denodeify": "^1.2.1",
     "polyfill-library": "^3.34.0"
