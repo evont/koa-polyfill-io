@@ -7,7 +7,6 @@
   "license": "ISC",
   "dependencies": {
     "denodeify": "^1.2.1",
-    "iltorb": "^2.4.3",
     "polyfill-library": "^3.34.0"
   }
 }
