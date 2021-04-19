@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "denodeify": "^1.2.1",
-    "polyfill-library": "^3.34.0"
+    "polyfill-library": "^3.104.0"
   }
 }
