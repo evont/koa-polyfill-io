@@ -1,4 +1,4 @@
-# Koa-polyfill-service
+# Koa-polyfill-io
 
 This is a Koa middleware based on [polyfill.io](https://polyfill.io/v3/), which can't be stable visited in mainland & causing request timeout. therefore I create this;
 
@@ -6,13 +6,13 @@ This is a Koa middleware based on [polyfill.io](https://polyfill.io/v3/), which 
 
 ## Install 
 ``` bash
-npm install koa-polyfill-service
+npm install koa-polyfill-io
 ```
 
 ## Usage
 ```javascript
 const koa = require('koa');
-const polyfillMiddleWare = require('koa-polyfill-service');
+const polyfillMiddleWare = require('koa-polyfill-io');
 const koaRouter = require('koa-router');
 const conditional = require('koa-conditional-get');
 const etag = require('koa-etag');
